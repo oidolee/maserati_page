@@ -1,3 +1,6 @@
+- 마세라티 사이트 프론트 구현
+- 사용연어 : Html, Css, JavaScript
+
 - 페이지 주소
   
   https://oidolee.github.io/test_maserati/
